@@ -1,0 +1,39 @@
+Test 1:
+Enter a word: cat
+Enter the filename containing the list of words: words.txt
+Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): s
+Sub-anagrams found for the word 'cat':
+1. cat
+2. act
+
+Test 2:
+Enter a word: ship
+Enter the filename containing the list of words: words.txt
+Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Anagrams found for the word 'ship':
+1. ship
+2. hips
+
+Test 3:
+Enter a word: act
+Enter the filename containing the list of words: words.txt
+Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Anagrams found for the word 'act':
+1. cat
+2. act
+
+Test 4:
+Enter a word: stop
+Enter the filename containing the list of words: words.txt
+Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Anagrams found for the word 'stop':
+1. stop
+2. pots
+3. spot
+
+Test 5:
+Enter a word: top
+Enter the filename containing the list of words: words.txt
+Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): s
+Sub-anagrams found for the word 'top':
+1. top
