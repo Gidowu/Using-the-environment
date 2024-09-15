@@ -1,39 +1,49 @@
-Test 1:
-Enter a word: cat
-Enter the filename containing the list of words: words.txt
-Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): s
-Sub-anagrams found for the word 'cat':
-1. cat
-2. act
+Test Run 1:
+Input:
+  Enter a word: toga
+  Enter the filename containing the list of words: short.txt
+  Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Output:
+  Anagrams found for the word 'toga':
+  1. toga
+  2. goat
 
-Test 2:
-Enter a word: ship
-Enter the filename containing the list of words: words.txt
-Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
-Anagrams found for the word 'ship':
-1. ship
-2. hips
+Test Run 2:
+Input:
+  Enter a word: aunt
+  Enter the filename containing the list of words: short.txt
+  Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Output:
+  Anagrams found for the word 'aunt':
+  1. aunt
+  2. tuna
 
-Test 3:
-Enter a word: act
-Enter the filename containing the list of words: words.txt
-Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
-Anagrams found for the word 'act':
-1. cat
-2. act
+Test Run 3:
+Input:
+  Enter a word: bare
+  Enter the filename containing the list of words: short.txt
+  Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Output:
+  Anagrams found for the word 'bare':
+  1. bare
+  2. bear
 
-Test 4:
-Enter a word: stop
-Enter the filename containing the list of words: words.txt
-Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
-Anagrams found for the word 'stop':
-1. stop
-2. pots
-3. spot
+Test Run 4:
+Input:
+  Enter a word: calm
+  Enter the filename containing the list of words: short.txt
+  Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Output:
+  Anagrams found for the word 'calm':
+  1. clam
+  2. calm
 
-Test 5:
-Enter a word: top
-Enter the filename containing the list of words: words.txt
-Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): s
-Sub-anagrams found for the word 'top':
-1. top
+Test Run 5:
+Input:
+  Enter a word: reed
+  Enter the filename containing the list of words: short.txt
+  Do you want to find (a)nagrams or (s)ub-anagrams? (Enter 'a' or 's'): a
+Output:
+  Anagrams found for the word 'reed':
+  1. reed
+  2. deer
